@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laksanaindra
 - 👀 I’m interested in Coding for Data Analysis
-- 🌱 I’m currently learning Phyton for Data Analysis
+- 🌱 I’m currently learning Python for Data Analysis
 - 📫 How to reach me https://www.linkedin.com/in/indra-laksana-5b6b36130/
 
 <!---
